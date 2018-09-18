@@ -1,15 +1,5 @@
-makeTurkeySandwich ____
-  Get one slice of bread.
-  Add ___.
-  Put a slice of bread on top.
+let todos = ['item 1', 'item 2', 'item 3']
 
-function makeTurkeySandwich(filling) {
-  Get one slice of bread;
-  Add filling;
-  Put a slice of bread on top;
+function displayTodos() {
+  console.log('My todos:', todos);
 }
-
-makeTurkeySandwich _ham_
-makeTurkeySandwich('ham');
-
-console.log("My todos", todos)
