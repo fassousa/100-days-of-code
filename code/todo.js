@@ -1,12 +1,15 @@
-makeTurkeySandwich
+makeTurkeySandwich ____
   Get one slice of bread.
-  Add turkey.
+  Add ___.
   Put a slice of bread on top.
 
-function makeTurkeySandwich() {
+function makeTurkeySandwich(filling) {
   Get one slice of bread;
-  Add turkey;
+  Add filling;
   Put a slice of bread on top;
 }
 
-makeTurkeySandwich();
+makeTurkeySandwich _ham_
+makeTurkeySandwich('ham');
+
+console.log("My todos", todos)
