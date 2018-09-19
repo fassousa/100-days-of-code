@@ -1,13 +1,10 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: September 17, 2018
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Started to redo watchandcode.com again to sharpen my javascript after Le Wagon bootcamp
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts:** Setting up the repo for the challenge and the first lectures were quite easy
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
