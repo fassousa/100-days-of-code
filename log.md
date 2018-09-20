@@ -12,6 +12,12 @@
 
 **Thoughts**: Today I got really lazy, but the lectures were quite easy and made me think the ruby way to do them.
 
+### Day 3: September 19, 2018
+
+**Today's Progress**: Continued watchandcode JavaScript course to review and did some Ruby challenges to practice for job online screenings. Learned some cool stuff about array methods in Ruby and got stuck in a problem reggarding hashes and arrays in Ruby. I have to study that more.
+
+**Thoughts**: It is getting harder to code everyday because sometimes I just feel like not coding, but when I start things begin to set in motion. The hardest part today were the Ruby challenges
+
 
 ### Day 1: June 27, Monday
 
