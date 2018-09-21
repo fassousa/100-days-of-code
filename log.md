@@ -18,6 +18,11 @@
 
 **Thoughts**: It is getting harder to code everyday because sometimes I just feel like not coding, but when I start things begin to set in motion. The hardest part today were the Ruby challenges
 
+### Day 4: September 20, 2018
+
+**Today's Progress**: Continued watchandcode JavaScript course and finished version 6. Applyed to some jobs and did some coding challenges for practice. Did an actual job challenge and screwed so bad, but I learned a lot.
+
+**Thoughts**: 
 
 ### Day 1: June 27, Monday
 
