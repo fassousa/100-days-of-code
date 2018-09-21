@@ -22,7 +22,7 @@
 
 **Today's Progress**: Continued watchandcode JavaScript course and finished version 6. Applyed to some jobs and did some coding challenges for practice. Did an actual job challenge and screwed so bad, but I learned a lot.
 
-**Thoughts**: 
+**Thoughts**: I tried to do a lot of hard stuff today without succeeding as I wished, but everyday is a new learning and I get one step closer, each day, to understand the whole picture.
 
 ### Day 1: June 27, Monday
 
