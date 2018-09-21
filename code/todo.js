@@ -6,7 +6,11 @@ var todoList = {
     } else {
       console.log('My Todos:');
       for (var i = 0; i < this.todos.length; i++) {
-        console.log(this.todos[i].todotext);
+        if (this.todos[i].completed === true) {
+          console.log('(x)', this.todos[i].todotext);
+        } else {
+          console.log('( )',this.todos[i].todotext);
+        }
       }
     }
   },
