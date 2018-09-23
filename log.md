@@ -16,7 +16,7 @@
 
 **Today's Progress**: Continued watchandcode JavaScript course to review and did some Ruby challenges to practice for job online screenings. Learned some cool stuff about array methods in Ruby and got stuck in a problem reggarding hashes and arrays in Ruby. I have to study that more.
 
-**Thoughts**: It is getting harder to code everyday because sometimes I just feel like not coding, but when I start things begin to set in motion. The hardest part today were the Ruby challenges
+**Thoughts**: It is getting harder to code everyday because sometimes I just feel like not coding, but when I start things begin to set in motion. The hardest part today were the Ruby challenges.
 
 ### Day 4: September 20, 2018
 
@@ -28,7 +28,13 @@
 
 **Today's Progress**: Today I started a project with Middleman and deployed the skeleton to github pages. I got robbed today and I don't have my phone anymore. I couldn't continue this night to follow the watchandcode JavaScript course because I went home to block my number and cellphone.
 
-**Thoughts**: I think that I'll start doing daily pages with Middleman because I learn the best by doing projects instead of readind a lot and following tutorials a lot. I'm best suited to learn a few hours and then spend the rest of the day mastering that knowledge
+**Thoughts**: I think that I'll start doing daily pages with Middleman because I learn the best by doing projects instead of readind a lot and following tutorials a lot. I'm best suited to learn a few hours and then spend the rest of the day mastering that knowledge.
+
+### Day 6: September 22, 2018
+
+**Today's Progress**: Continued watchandcode until the version 7 + the interlude. Found out interesting resources to take inspiration such as [Awwwrds](https://www.awwwards.com/), [The FWA](https://thefwa.com/awards/page/1/) and [Uplabs](https://www.uplabs.com/posts/c/web/resources/landing). I also put in my list to be studied: continuous integration, TDD (Ruby: RSpec and Capybara; JavaScript: Mocha, Jasmine, Jest, Enzyme), Scrum and Kanban (notions of them) etc.
+
+**Thoughts**: Today I had a lot of free time, but I used most of it to focus on relaxing, but still managed to learn as I wanted. I have to master Vue.JS as soon as I can and that may be my priority in October after I finish the basic javascript review and the ES6 review after that. Impostor syndrome is kind of lowing my confidence, but I won't stop coding no matter what :) 
 
 ### Day 1: June 27, Monday
 
