@@ -24,6 +24,12 @@
 
 **Thoughts**: I tried to do a lot of hard stuff today without succeeding as I wished, but everyday is a new learning and I get one step closer, each day, to understand the whole picture.
 
+### Day 5: September 21, 2018
+
+**Today's Progress**: Today I started a project with Middleman and deployed the skeleton to github pages. I got robbed today and I don't have my phone anymore. I couldn't continue this night to follow the watchandcode JavaScript course because I went home to block my number and cellphone.
+
+**Thoughts**: I think that I'll start doing daily pages with Middleman because I learn the best by doing projects instead of readind a lot and following tutorials a lot. I'm best suited to learn a few hours and then spend the rest of the day mastering that knowledge
+
 ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
