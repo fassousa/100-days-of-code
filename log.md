@@ -34,13 +34,13 @@
 
 **Today's Progress**: Continued watchandcode until the version 7 + the interlude. Found out interesting resources to take inspiration such as [Awwwrds](https://www.awwwards.com/), [The FWA](https://thefwa.com/awards/page/1/) and [Uplabs](https://www.uplabs.com/posts/c/web/resources/landing). I also put in my list to be studied: continuous integration, TDD (Ruby: RSpec and Capybara; JavaScript: Mocha, Jasmine, Jest, Enzyme), Scrum and Kanban (notions of them) etc.
 
-**Thoughts**: Today I had a lot of free time, but I used most of it to focus on relaxing, but still managed to learn as I wanted. I have to master Vue.JS as soon as I can and that may be my priority in October after I finish the basic javascript review and the ES6 review after that. Impostor syndrome is kind of lowing my confidence, but I won't stop coding no matter what :) 
+**Thoughts**: Today I had a lot of free time, but I used most of it to focus on relaxing, but still managed to learn as I wanted. I have to master Vue.JS as soon as I can and that may be my priority in October after I finish the basic javascript review and the ES6 review after that. Impostor syndrome is kind of lowing my confidence, but I won't stop coding no matter what :)
 
-### Day 1: June 27, Monday
+### Day 7: September 23, 2018
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Reviewed the Chrome JavaScript Debugger and continued watchandcode until version 9. Played with some DOM selectors and with HTML DOM events.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts**: Today I rested a lot because I was really tired. I plan to finish my JavaScript review until 25/09 - Tuesday and then dive in ES6 study. Also I have to start doing small projects for my portfolio.
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
