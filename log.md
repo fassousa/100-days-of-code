@@ -42,6 +42,10 @@
 
 **Thoughts**: Today I rested a lot because I was really tired. I plan to finish my JavaScript review until 25/09 - Tuesday and then dive in ES6 study. Also I have to start doing small projects for my portfolio.
 
+### Day 8: September 24, 2018
+
+**Today's Progress**: Refactored some JavaScript code today and continued with DOM manipulation.
+
+**Thoughts**: Haven't read any articles or relevant content today, but today I reserved more time to study JavaScript. Tomorrow I will do some assignments in a more appropriate space and code the whole day.
+
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
