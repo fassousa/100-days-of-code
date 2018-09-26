@@ -48,4 +48,10 @@
 
 **Thoughts**: Haven't read any articles or relevant content today, but today I reserved more time to study JavaScript. Tomorrow I will do some assignments in a more appropriate space and code the whole day.
 
+### Day 9: September 25, 2018
+
+**Today's Progress**: Studied the concepts of agile methodologies (Kanban, Scrum, XP, etc) and learned about JavaScript DOM Event Delegation. Almost finishing watchandcode.
+
+**Thoughts**: No relevants thoughts about programming today, but I applied to Gama. Looking forward to it!
+
 **Link(s) to work**
