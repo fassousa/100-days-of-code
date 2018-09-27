@@ -56,7 +56,7 @@
 
 ### Day 10: September 26, 2018
 
-**Today's Progress**: Finished Practical JavaScript and learned a lot about Clean Code (now I want to read this [book]https://www.amazon.com.br/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882).
+**Today's Progress**: Finished Practical JavaScript and learned a lot about Clean Code (now I want to read this [book](https://www.amazon.com.br/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)).
 
 **Thoughts**: Now I will go serious to learn **ES6 for real**. I will study through freeCodeCamp, Le Wagon and Eloquent JavaScript. And after that, dive in either Vue.JS or React.JS.
 
