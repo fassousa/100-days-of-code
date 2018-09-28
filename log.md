@@ -60,4 +60,10 @@
 
 **Thoughts**: Now I will go serious to learn **ES6 for real**. I will study through freeCodeCamp, Le Wagon and Eloquent JavaScript. And after that, dive in either Vue.JS or React.JS.
 
+### Day 11: September 27, 2018
+
+**Today's Progress**: Started freeCodeCamp "Responsive Web Design Certification" and after that will start the "Javascript Algorithms And Data Structures Certification" (that includes ES6, Regex, OOP, Intermediate Programming, etc.) Also did some JavaScript exercises and received feedback from a job interview.
+
+**Thoughts**: I screwed my interview because the interviewer thought that I copied and pasted my answer about 'Clean Code'. Actually I did a lot of research in lots of different websites to learn what it was about. Unfortunately it did not work out. I have to step up my communication and uniqueness of my responses. Also, I have decided to give myself the time span from today until day 20 to finish both certifications.
+
 **Link(s) to work**
