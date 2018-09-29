@@ -6,3 +6,4 @@
 ### This document is my way to register my evolution on Github inside the 100 Days od Code Challenge, since freeCodeCamp exercises don't have integration with Github.
 
 * Basic HTML and HTML5 - Completed
+* Basic CSS - Completed
