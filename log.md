@@ -66,4 +66,10 @@
 
 **Thoughts**: I screwed my interview because the interviewer thought that I copied and pasted my answer about 'Clean Code'. Actually I did a lot of research in lots of different websites to learn what it was about. Unfortunately it did not work out. I have to step up my communication and uniqueness of my responses. Also, I have decided to give myself the time span from today until day 20 to finish both certifications.
 
+### Day 12: September 28, 2018
+
+**Today's Progress**: Almost halfway through the Responsive Web Design Certification. Reviewing some HTML, CSS and Applied Visual Design. Created a folder to document my journey using freeCodeCamp using git and github.
+
+**Thoughts**: Today I felt overwhelmed with the amount of stuff that some job postings ask and that I want to learn. I only have to stick to the challenge and speed up my daily development. I feel like in the next days I will learn (and apply) a lot of useful stuff, specially the more advanced Ruby and JavaScript parts. Note to self: **Keep it up and don't drop the ball!**
+
 **Link(s) to work**
