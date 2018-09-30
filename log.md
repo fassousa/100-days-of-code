@@ -72,4 +72,10 @@
 
 **Thoughts**: Today I felt overwhelmed with the amount of stuff that some job postings ask and that I want to learn. I only have to stick to the challenge and speed up my daily development. I feel like in the next days I will learn (and apply) a lot of useful stuff, specially the more advanced Ruby and JavaScript parts. Note to self: **Keep it up and don't drop the ball!**
 
+### Day 13: September 29, 2018
+
+**Today's Progress**: Finished Applied Visual Design and started Applied Accessibility.
+
+**Thoughts**: Today was more calm and I relaxed the whole day. Only studied the minimum for the challenge. Just a tranquil saturday.
+
 **Link(s) to work**
