@@ -7,3 +7,4 @@
 
 * Basic HTML and HTML5 - Completed
 * Basic CSS - Completed
+* Applied Visual Design - Completed
