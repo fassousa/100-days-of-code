@@ -78,4 +78,10 @@
 
 **Thoughts**: Today was more calm and I relaxed the whole day. Only studied the minimum for the challenge. Just a tranquil saturday.
 
+### Day 14: September 30, 2018
+
+**Today's Progress**: Materials for the gama test: 
+1. Desmistificando o protocolo HTTP – parte 1 - Completed
+
+
 **Link(s) to work**
