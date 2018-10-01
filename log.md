@@ -90,6 +90,6 @@
 7. Introdução ao JavaScript Orientado a Objeto - Completed
 8. Como controlar e compartilhar seu código com Git - Completed
 9. Deploy em 4 passos para desenvolvedores iniciantes - Completed
-
+10. Git - guia prático - Completed
 
 **Link(s) to work**
