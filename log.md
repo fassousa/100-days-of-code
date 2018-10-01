@@ -84,6 +84,7 @@
 1. Desmistificando o protocolo HTTP – parte 1 - Completed
 2. Desmistificando o protocolo HTTP – parte 2 - Completed
 3. Playlist Lógica de Programação - Node Studio Treinamentos - Completed
+4. Programação orientada a objetos em JavaScript - Completed
 
 
 **Link(s) to work**
