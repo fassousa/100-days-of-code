@@ -91,5 +91,6 @@
 8. Como controlar e compartilhar seu código com Git - Completed
 9. Deploy em 4 passos para desenvolvedores iniciantes - Completed
 10. Git - guia prático - Completed
+11. Plano para estudar Git e GitHub enquanto aprende programação
 
 **Link(s) to work**
