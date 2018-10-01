@@ -86,6 +86,7 @@
 3. Playlist Lógica de Programação - Node Studio Treinamentos - Completed
 4. Programação orientada a objetos em JavaScript - Completed
 5. Introdução à lógica de programação com JavaScript - Completed
+6. HTTP request methods - Completed
 
 
 **Link(s) to work**
