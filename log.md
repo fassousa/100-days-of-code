@@ -93,6 +93,7 @@
 10. Git - guia prático - Completed
 11. Plano para estudar Git e GitHub enquanto aprende programação
 12. Bancos de Dados Relacionais: Um guia completo
+13. A Semântica
 
 
 **Link(s) to work**
