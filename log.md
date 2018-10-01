@@ -80,7 +80,8 @@
 
 ### Day 14: September 30, 2018
 
-**Today's Progress**: Materials for the gama test: 
+**Today's Progress**: Stayed some hours reading the materials below and then applied, doing the interviews and the test.
+Materials for the gama test: 
 1. Desmistificando o protocolo HTTP – parte 1 - Completed
 2. Desmistificando o protocolo HTTP – parte 2 - Completed
 3. Playlist Lógica de Programação - Node Studio Treinamentos - Completed
@@ -96,5 +97,7 @@
 13. A Semântica
 14. O que é HTML?
 15. O que é CSS?
+
+**Thoughts**: Hoping for the approval of the tests. Today was a quiet day. Tomorrow, weekday, I'll be back on track.
 
 **Link(s) to work**
