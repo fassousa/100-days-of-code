@@ -82,6 +82,7 @@
 
 **Today's Progress**: Materials for the gama test: 
 1. Desmistificando o protocolo HTTP – parte 1 - Completed
+2. Desmistificando o protocolo HTTP – parte 2 - Completed
 
 
 **Link(s) to work**
