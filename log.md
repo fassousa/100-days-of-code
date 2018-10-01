@@ -88,6 +88,7 @@
 5. Introdução à lógica de programação com JavaScript - Completed
 6. HTTP request methods - Completed
 7. Introdução ao JavaScript Orientado a Objeto - Completed
+8. Como controlar e compartilhar seu código com Git - Completed
 
 
 **Link(s) to work**
