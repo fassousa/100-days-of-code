@@ -83,6 +83,7 @@
 **Today's Progress**: Materials for the gama test: 
 1. Desmistificando o protocolo HTTP – parte 1 - Completed
 2. Desmistificando o protocolo HTTP – parte 2 - Completed
+3. Playlist Lógica de Programação - Node Studio Treinamentos - Completed
 
 
 **Link(s) to work**
