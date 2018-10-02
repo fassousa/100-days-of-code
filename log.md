@@ -100,4 +100,10 @@ Materials for the gama test:
 
 **Thoughts**: Hoping for the approval of the tests. Today was a quiet day. Tomorrow, weekday, I'll be back on track.
 
+### Day 15: October 1, 2018
+
+**Today's Progress**: Finished Applied Accessibility and read some articles about semantic HTML.
+
+**Thoughts**: I fell like I have to implement a more strict and rigid routine in order to improve faster. I saw this video, [What to Do When You're Too Lazy to Stick to Your Habits](https://www.youtube.com/watch?v=WKV0xrfH8yY) and will implement my lifestyle using the knowledge learned.
+
 **Link(s) to work**
