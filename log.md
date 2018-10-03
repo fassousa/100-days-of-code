@@ -103,7 +103,13 @@ Materials for the gama test:
 ### Day 15: October 1, 2018
 
 **Today's Progress**: Finished Applied Accessibility and read some articles about semantic HTML.
-
+NO
 **Thoughts**: I fell like I have to implement a more strict and rigid routine in order to improve faster. I saw this video, [What to Do When You're Too Lazy to Stick to Your Habits](https://www.youtube.com/watch?v=WKV0xrfH8yY) and will implement my lifestyle using the knowledge learned.
+
+### Day 16: October 2, 2018
+
+**Today's Progress**: Finished Responsive Web Design Principles and CSS Flexbox.
+
+**Thoughts**: Nothing special about today, bought a coffee, an energetic and studied.
 
 **Link(s) to work**
