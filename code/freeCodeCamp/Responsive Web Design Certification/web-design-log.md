@@ -9,3 +9,4 @@
 * Basic CSS - Completed
 * Applied Visual Design - Completed
 * Applied Accessibility - Completed
+* Responsive Web Design Principles - Completed
