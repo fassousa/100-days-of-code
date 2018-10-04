@@ -11,3 +11,4 @@
 * Applied Accessibility - Completed
 * Responsive Web Design Principles - Completed
 * CSS Flexbox - Completed
+* CSS Grid - Completed
