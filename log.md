@@ -112,4 +112,10 @@ NO
 
 **Thoughts**: Nothing special about today, bought a coffee, an energetic and studied.
 
+### Day 17: October 3, 2018
+
+**Today's Progress**: Completed CSS Grid.
+
+**Thoughts**: Normal day. Nothing importnt to register.
+
 **Link(s) to work**
