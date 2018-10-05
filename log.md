@@ -116,6 +116,13 @@ NO
 
 **Today's Progress**: Completed CSS Grid.
 
-**Thoughts**: Normal day. Nothing importnt to register.
+**Thoughts**: Normal day. Nothing important to register.
+
+### Day 18: October 4, 2018
+
+**Today's Progress**: Read some articles: [How I rediscovered my love for JavaScript after throwing 90% of it in the trash.](https://hackernoon.com/how-i-rediscovered-my-love-for-javascript-after-throwing-90-of-it-in-the-trash-f1baed075d1b) and [Rethinking JavaScript: The if statement
+](https://hackernoon.com/rethinking-javascript-the-if-statement-b158a61cd6cb) and started Responsive Web Design Projects.
+
+**Thoughts**: Started the day reading about functional programming in javascript and after that moved on to the Web Design Projects. 
 
 **Link(s) to work**
