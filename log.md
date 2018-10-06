@@ -125,4 +125,10 @@ NO
 
 **Thoughts**: Started the day reading about functional programming in javascript and after that moved on to the Web Design Projects. 
 
+### Day 19: October 5, 2018
+
+**Today's Progress**: Studied Ruby on Rails and read some articles.
+
+**Thoughts**: Very lazy day, but today I received a job test for a remote position.
+
 **Link(s) to work**
